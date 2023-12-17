@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            //Deckare and initialize grades
+            //Declare and initialize grades
             int[] grades = new int[5];
 
             grades[0] = 20;
